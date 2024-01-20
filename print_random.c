@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "random.c"
+#include "random.h"
 
 
 int main()
