@@ -1,6 +1,7 @@
 //this function generates a random letter by generating a random number from 1-26 using srand
 //and using that number to choose an element in an array of the 26 lowercase letters
 
+#include "random.h"
 #include <stdio.h>
 #include <stdlib.h>
 
